@@ -3,8 +3,9 @@
 \contentsline {section}{\numberline {1.2}Christian for the Soul and Academic of the Mind}{4}%
 \contentsline {chapter}{\numberline {2}On Being a Scientist}{7}%
 \contentsline {section}{\numberline {2.1}From Conjecture to Reevaluation}{7}%
-\contentsline {section}{\numberline {2.2}Repeat}{10}%
-\contentsline {section}{\numberline {2.3}What is a scientist?}{11}%
+\contentsline {section}{\numberline {2.2}Communication}{9}%
+\contentsline {section}{\numberline {2.3}Repeat}{10}%
+\contentsline {section}{\numberline {2.4}What is a scientist?}{11}%
 \contentsline {chapter}{\numberline {3}The Parable of the PhD}{13}%
 \contentsline {section}{\numberline {3.1}Why is it so hard?}{13}%
 \contentsline {section}{\numberline {3.2}Faith like a Child}{14}%
