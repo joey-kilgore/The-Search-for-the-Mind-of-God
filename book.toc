@@ -1,0 +1,25 @@
+\contentsline {chapter}{\numberline {1}The Start of My Walk}{1}%
+\contentsline {section}{\numberline {1.1}Two Worlds Collide}{3}%
+\contentsline {section}{\numberline {1.2}Christian for the Soul and Academic of the Mind}{4}%
+\contentsline {chapter}{\numberline {2}On Being a Scientist}{7}%
+\contentsline {section}{\numberline {2.1}Repeat}{10}%
+\contentsline {section}{\numberline {2.2}What is a scientist?}{11}%
+\contentsline {chapter}{\numberline {3}The Parable of the PhD}{13}%
+\contentsline {section}{\numberline {3.1}Why is it so hard?}{13}%
+\contentsline {section}{\numberline {3.2}Faith like a Child}{14}%
+\contentsline {chapter}{\numberline {4}Data}{17}%
+\contentsline {section}{\numberline {4.1}What makes data valuable?}{17}%
+\contentsline {section}{\numberline {4.2}What is the value of our data?}{19}%
+\contentsline {section}{\numberline {4.3}Sum of our data}{20}%
+\contentsline {chapter}{\numberline {5}The Use of Models}{23}%
+\contentsline {section}{\numberline {5.1}The Perfect Model}{25}%
+\contentsline {section}{\numberline {5.2}The Place of the Religious Model}{26}%
+\contentsline {section}{\numberline {5.3}The Scientific Model}{29}%
+\contentsline {section}{\numberline {5.4}The Christian Scientific Harmony}{30}%
+\contentsline {chapter}{\numberline {6}The Heart}{33}%
+\contentsline {section}{\numberline {6.1}My Heart - A Poem}{33}%
+\contentsline {section}{\numberline {6.2}What does it mean?}{35}%
+\contentsline {chapter}{\numberline {7}Christians for the Souls}{39}%
+\contentsline {section}{\numberline {7.1}Practical Christians}{40}%
+\contentsline {section}{\numberline {7.2}The Lukewarm}{41}%
+\contentsline {section}{\numberline {7.3}How should we interact?}{42}%
