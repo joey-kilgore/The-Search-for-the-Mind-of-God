@@ -17,8 +17,8 @@
 \contentsline {chapter}{\numberline {5}The Use of Models}{23}%
 \contentsline {section}{\numberline {5.1}The Perfect Model}{25}%
 \contentsline {section}{\numberline {5.2}The Place of the Religious Model}{26}%
-\contentsline {section}{\numberline {5.3}The Scientific Model}{29}%
-\contentsline {section}{\numberline {5.4}The Christian Scientific Harmony}{30}%
+\contentsline {section}{\numberline {5.3}The Scientific Model}{30}%
+\contentsline {section}{\numberline {5.4}The Christian Scientific Harmony}{31}%
 \contentsline {chapter}{\numberline {6}The Heart}{33}%
 \contentsline {section}{\numberline {6.1}My Heart - A Poem}{33}%
 \contentsline {section}{\numberline {6.2}What does it mean?}{35}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  24 MAR 2021 22:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  24 MAR 2021 23:34
 entering extended mode
 **./book.tex
 (book.tex
@@ -96,12 +96,12 @@ Chapter 4.
 Chapter 5.
 [23
 
-] [24] [25] [26] [27] [28] [29] [30] Excluding 'comment' comment. [31]
-[32
-
-]
+] [24] [25] [26] [27] [28] [29] [30] [31] Excluding 'comment' comment.
+[32]
 Chapter 6.
-[33] [34] [35] [36] [37] [38
+[33
+
+] [34] [35] [36] [37] [38
 
 ]
 Chapter 7.
@@ -124,7 +124,7 @@ ype1/public/amsfonts/cm/cmr7.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Joey Kilgore/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Joey K
 ilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on book.pdf (47 pages, 218033 bytes).
+Output written on book.pdf (47 pages, 218454 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
