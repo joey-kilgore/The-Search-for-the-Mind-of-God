@@ -13,7 +13,7 @@
 \contentsline {chapter}{\numberline {4}Data}{17}%
 \contentsline {section}{\numberline {4.1}What makes data valuable?}{17}%
 \contentsline {section}{\numberline {4.2}What is the value of our data?}{19}%
-\contentsline {section}{\numberline {4.3}Sum of our data}{20}%
+\contentsline {section}{\numberline {4.3}Sum of our data}{21}%
 \contentsline {chapter}{\numberline {5}The Use of Models}{23}%
 \contentsline {section}{\numberline {5.1}The Perfect Model}{25}%
 \contentsline {section}{\numberline {5.2}The Place of the Religious Model}{26}%
