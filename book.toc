@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {5.4}The Christian Scientific Harmony}{31}%
 \contentsline {chapter}{\numberline {6}The Heart}{33}%
 \contentsline {section}{\numberline {6.1}My Heart - A Poem}{33}%
-\contentsline {section}{\numberline {6.2}What does it mean?}{35}%
+\contentsline {section}{\numberline {6.2}What does it mean?}{36}%
 \contentsline {chapter}{\numberline {7}Christians for the Souls}{39}%
 \contentsline {section}{\numberline {7.1}Practical Christians}{40}%
 \contentsline {section}{\numberline {7.2}The Lukewarm}{41}%
