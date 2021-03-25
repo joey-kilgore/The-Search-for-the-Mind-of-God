@@ -9,6 +9,7 @@
 \contentsline {chapter}{\numberline {3}The Parable of the PhD}{13}%
 \contentsline {section}{\numberline {3.1}Why is it so hard?}{13}%
 \contentsline {section}{\numberline {3.2}Faith like a Child}{14}%
+\contentsline {section}{\numberline {3.3}Get out of your head!}{16}%
 \contentsline {chapter}{\numberline {4}Data}{17}%
 \contentsline {section}{\numberline {4.1}What makes data valuable?}{17}%
 \contentsline {section}{\numberline {4.2}What is the value of our data?}{19}%
