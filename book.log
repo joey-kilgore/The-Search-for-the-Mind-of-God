@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  25 MAR 2021 00:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  26 MAR 2021 16:26
 entering extended mode
 **./book.tex
 (book.tex
@@ -80,40 +80,52 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-] [2] [3] [4] [5] [6
+] [2] [3]
+Package marginnote Info: Margin note 8.1 is on absolute page 8 on input line 36
+.
+Package marginnote Info: xpos seems to be 241.44238pt on input line 36.
+ [4] [5] [6] [7] [8]
+Chapter 2.
+[9
+
+] [10] [11] [12] [13] Excluding 'comment' comment. [14]
+Chapter 3.
+[15
+
+] [16] [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Package marginnote Info: Margin note 23.1 is on absolute page 23 on input line 
+202.
+Package marginnote Info: xpos seems to be 139.12634pt on input line 202.
+
+[19] [20
 
 ]
-Chapter 2.
-[7] [8] [9] [10] [11] Excluding 'comment' comment. [12]
-Chapter 3.
-[13
-
-] [14] [15] [16]
 Chapter 4.
-[17
-
-] [18] [19] [20] [21] [22]
+[21] [22] [23] [24] [25] [26]
 Chapter 5.
-[23
+[27
 
-] [24] [25] [26] [27] [28] [29] [30] [31] Excluding 'comment' comment.
-[32]
+] [28] [29] [30] [31] [32] [33] [34] [35] Excluding 'comment' comment.
+[36]
 Chapter 6.
-[33
+[37
 
-] [34] [35] [36] [37] [38]
+] [38] [39] [40] [41] [42]
 Chapter 7.
-[39
+[43
 
-] [40] [41] [42] [43] [44] (book.aux) ) 
+] [44] [45] [46] [47] [48] (book.aux) ) 
 Here is how much of TeX's memory you used:
- 518 strings out of 480790
- 8760 string characters out of 2893985
- 247729 words of memory out of 3000000
- 16589 multiletter control sequences out of 15000+200000
+ 521 strings out of 480790
+ 8789 string characters out of 2893985
+ 250763 words of memory out of 3000000
+ 16592 multiletter control sequences out of 15000+200000
  538504 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,8n,22p,2202b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,8n,22p,2203b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Joey Kilgore/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey Kilgore/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
@@ -125,9 +137,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Joey Kilgore/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Joey
  Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pf
 b>
-Output written on book.pdf (48 pages, 219001 bytes).
+Output written on book.pdf (52 pages, 228414 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
+ 202 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
