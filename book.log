@@ -1,41 +1,40 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  26 MAR 2021 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  26 MAR 2021 23:29
 entering extended mode
 **./book.tex
 (book.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18>
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo"
-File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marg
-innote.sty"
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.st
+y
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count176
-)
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment
-.sty"
+\c@mn@abspage=\count188
+) (C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write3
- Excluding comment 'comment')
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
-kend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count177
-\l__pdf_internal_box=\box45
+
+Excluding comment 'comment')
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count189
+\l__pdf_internal_box=\box47
 ) (book.aux)
 \openout1 = `book.aux'.
 
@@ -60,7 +59,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{C:/Users/Joey Kilgore/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
+{C:/Users/Joey/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
 
 ] (book.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -96,10 +95,6 @@ Chapter 3.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
-Package marginnote Info: Margin note 23.1 is on absolute page 23 on input line 
-202.
-Package marginnote Info: xpos seems to be 139.12634pt on input line 202.
-
 [19] [20
 
 ]
@@ -119,25 +114,24 @@ Chapter 7.
 
 ] [44] [45] [46] [47] [48] (book.aux) ) 
 Here is how much of TeX's memory you used:
- 521 strings out of 480790
- 8789 string characters out of 2893985
- 250763 words of memory out of 3000000
- 16592 multiletter control sequences out of 15000+200000
- 538504 words of font info for 44 fonts, out of 3000000 for 9000
+ 543 strings out of 479334
+ 9493 string characters out of 2857559
+ 304764 words of memory out of 3000000
+ 18057 multiletter control sequences out of 15000+200000
+ 409596 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,8n,22p,2203b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Joey Kilgore/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey Kilgore/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr17.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Joey Kilgore/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Joey Kilgore/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Joey
- Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pf
-b>
-Output written on book.pdf (52 pages, 228414 bytes).
+ 44i,8n,50p,2203b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Joey/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joey/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/J
+oey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sl12.pfb><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb>
+Output written on book.pdf (52 pages, 229406 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
