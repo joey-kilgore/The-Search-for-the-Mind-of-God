@@ -1,58 +1,57 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  4 APR 2021 00:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  6 APR 2021 01:18
 entering extended mode
 **./book.tex
 (book.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18>
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo"
-File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marg
-innote.sty"
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.st
+y
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count176
-)
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment
-.sty"
+\c@mn@abspage=\count188
+) (C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write3
- Excluding comment 'comment')
-("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
-kend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count177
-\l__pdf_internal_box=\box45
+
+Excluding comment 'comment')
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count189
+\l__pdf_internal_box=\box47
 ) (book.aux)
 \openout1 = `book.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -60,7 +59,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{C:/Users/Joey Kilgore/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
+
+{C:/Users/Joey/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
 
 ] (book.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -117,29 +117,32 @@ Chapter 6.
 Chapter 7.
 [45
 
-] [46] [47] [48] [49] [50] (book.aux) ) 
+] [46] [47] [48] [49] [50]
+Chapter 8.
+[51
+
+] [52] [53] (book.aux) ) 
 Here is how much of TeX's memory you used:
- 521 strings out of 480790
- 8790 string characters out of 2893985
- 250750 words of memory out of 3000000
- 16592 multiletter control sequences out of 15000+200000
- 538504 words of font info for 44 fonts, out of 3000000 for 9000
+ 543 strings out of 479334
+ 9493 string characters out of 2857559
+ 304764 words of memory out of 3000000
+ 18057 multiletter control sequences out of 15000+200000
+ 409596 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,8n,22p,2203b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Joey Kilgore/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey Kilgore/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr17.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Joey Kilgore/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Joey Kilgore/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Joey
- Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pf
+ 44i,8n,50p,2203b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joey/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Joey/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Joey/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Joey
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Us
+ers/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pf
 b>
-Output written on book.pdf (54 pages, 233347 bytes).
+Output written on book.pdf (57 pages, 240882 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
+ 218 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
