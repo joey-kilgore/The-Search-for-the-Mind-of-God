@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  6 APR 2021 01:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  7 APR 2021 00:37
 entering extended mode
 **./book.tex
 (book.tex
@@ -30,6 +30,31 @@ Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
 \CommentStream=\write3
 
 Excluding comment 'comment')
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
 (C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
@@ -38,29 +63,52 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 ) (book.aux)
 \openout1 = `book.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen141
+\scratchbox=\box48
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen142
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks17
+)
+(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 9.
+(Font)              <14.4> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
+(Font)              <7> on input line 10.
  [1
 
 
 
-{C:/Users/Joey/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
+{C:/Users/Joey/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+[2
 
 ] (book.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -76,14 +124,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [4]
 Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 16.
 [1
 
 
 ] [2] [3]
-Package marginnote Info: Margin note 8.1 is on absolute page 8 on input line 36
+Package marginnote Info: Margin note 8.1 is on absolute page 8 on input line 37
 .
-Package marginnote Info: xpos seems to be 241.44238pt on input line 36.
+Package marginnote Info: xpos seems to be 241.44238pt on input line 37.
  [4] [5] [6] [7] [8]
 Chapter 2.
 [9
@@ -113,36 +161,48 @@ Chapter 5.
 
 ]
 Chapter 6.
-[39] [40] [41] [42] [43] [44]
+[39] [40] [41]
+<./figs/rorschach.jpg, id=152, 738.76pt x 483.8075pt>
+File: ./figs/rorschach.jpg Graphic file (type jpg)
+<use ./figs/rorschach.jpg>
+Package pdftex.def Info: ./figs/rorschach.jpg  used on input line 584.
+(pdftex.def)             Requested size: 390.0pt x 255.40538pt.
+ [42] [43 <./figs/rorschach.jpg>] [44] [45] [46
+
+]
 Chapter 7.
-[45
-
-] [46] [47] [48] [49] [50]
+[47] [48] [49] [50] [51] [52]
 Chapter 8.
-[51
+[53
 
-] [52] [53] (book.aux) ) 
+] [54] [55]
+<./figs/elephant.jpg, id=197, 1011.78pt x 749.80125pt>
+File: ./figs/elephant.jpg Graphic file (type jpg)
+<use ./figs/elephant.jpg>
+Package pdftex.def Info: ./figs/elephant.jpg  used on input line 764.
+(pdftex.def)             Requested size: 390.0pt x 289.02333pt.
+ [56 <./figs/elephant.jpg>] (book.aux) ) 
 Here is how much of TeX's memory you used:
- 543 strings out of 479334
- 9493 string characters out of 2857559
- 304764 words of memory out of 3000000
- 18057 multiletter control sequences out of 15000+200000
+ 1334 strings out of 479334
+ 20631 string characters out of 2857559
+ 316711 words of memory out of 3000000
+ 18813 multiletter control sequences out of 15000+200000
  409596 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,8n,50p,2203b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joey/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Joey/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Joey/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Joey
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Us
-ers/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pf
-b>
-Output written on book.pdf (57 pages, 240882 bytes).
+ 68i,8n,74p,2203b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Joey/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joey/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/
+Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
+Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pf
+b><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msl12.pfb><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmti12.pfb>
+Output written on book.pdf (60 pages, 608380 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
+ 229 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

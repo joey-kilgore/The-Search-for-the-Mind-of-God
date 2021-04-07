@@ -25,10 +25,11 @@
 \contentsline {chapter}{\numberline {6}The Heart}{39}{}%
 \contentsline {section}{\numberline {6.1}My Heart - A Poem}{39}{}%
 \contentsline {section}{\numberline {6.2}What does it mean?}{42}{}%
-\contentsline {chapter}{\numberline {7}Christians for the Souls}{45}{}%
-\contentsline {section}{\numberline {7.1}Practical Christians}{46}{}%
-\contentsline {section}{\numberline {7.2}The Lukewarm}{48}{}%
-\contentsline {section}{\numberline {7.3}How should we interact?}{49}{}%
-\contentsline {chapter}{\numberline {8}Now What?}{51}{}%
-\contentsline {section}{\numberline {8.1}For the Scientist}{51}{}%
-\contentsline {section}{\numberline {8.2}For the Christian}{52}{}%
+\contentsline {chapter}{\numberline {7}Christians for the Souls}{47}{}%
+\contentsline {section}{\numberline {7.1}Practical Christians}{48}{}%
+\contentsline {section}{\numberline {7.2}The Lukewarm}{50}{}%
+\contentsline {section}{\numberline {7.3}How should we interact?}{51}{}%
+\contentsline {chapter}{\numberline {8}Now What?}{53}{}%
+\contentsline {section}{\numberline {8.1}For the Scientist}{53}{}%
+\contentsline {section}{\numberline {8.2}For the Christian}{54}{}%
+\contentsline {section}{\numberline {8.3}For All of Us}{55}{}%
