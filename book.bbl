@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{maskEffectiveness}
+Effectiveness of adding a mask recommendation to other public health measures
+  to prevent sars-cov-2 infection in danish mask wearers.
+\newblock {\em Annals of Internal Medicine}, 174(3):335--343, 2021.
+\newblock PMID: 33205991.
+
+\bibitem{hawking_mlodinow_2010}
+Stephen Hawking and Leonard Mlodinow.
+\newblock {\em The Grand Design}.
+\newblock Bantam Books, 2010.
+
+\bibitem{Huxley1952}
+A.~L. Hodgkin and A.~F. Huxley.
+\newblock {A quantitative description of membrane current and its application
+  to conduction and excitation in nerve}.
+\newblock {\em The Journal of Physiology}, 117(4):500--544, aug 1952.
+
+\bibitem{McIntyre2002}
+Cameron~C. McIntyre, Andrew~G. Richardson, Warren~M. Grill, C~Cameron, and
+  M~Warren.
+\newblock {Modeling the excitability of mammalian nerve fibers: Influence of
+  afterpotentials on the recovery cycle}.
+\newblock {\em Journal of Neurophysiology}, 87(2):995--1006, 2002.
+
+\end{thebibliography}

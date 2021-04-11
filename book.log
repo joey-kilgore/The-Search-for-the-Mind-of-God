@@ -1,65 +1,71 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  8 APR 2021 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  10 APR 2021 20:05
 entering extended mode
 **./book.tex
 (book.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03>
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
-File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo"
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@chapter=\count180
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@subparagraph=\count185
-\c@figure=\count186
-\c@table=\count187
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen134
 )
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.st
-y
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marg
+innote.sty"
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count188
-) (C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\c@mn@abspage=\count176
+)
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment
+.sty"
 \CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-Excluding comment 'comment')
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
-g
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen139
-\Gin@req@width=\dimen140
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
-ex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count189
-\l__pdf_internal_box=\box47
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box45
 ) (book.aux)
 \openout1 = `book.aux'.
 
@@ -78,23 +84,23 @@ LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
-i
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count190
-\scratchdimen=\dimen141
-\scratchbox=\box48
-\nofMPsegments=\count191
-\nofMParguments=\count192
+\scratchcounter=\count178
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count179
+\nofMParguments=\count180
 \everyMPshowfont=\toks16
-\MPscratchCnt=\count193
-\MPscratchDim=\dimen142
-\MPnumerator=\count194
-\makeMPintoPDFobject=\count195
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen138
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
 \everyMPtoPDFconversion=\toks17
 )
-(C:\Users\Joey\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
-se.sty
+("C:\Users\Joey Kilgore\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -107,8 +113,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{C:/Users/Joey/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-[2
+{C:/Users/Joey Kilgore/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
 
 ] (book.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -140,12 +145,12 @@ Chapter 2.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-[13] Excluding 'comment' comment. [14]
+[13] [14]
 Chapter 3.
 <./figs/richyoungman.jpg, id=66, 377.92569pt x 298.36238pt>
 File: ./figs/richyoungman.jpg Graphic file (type jpg)
 <use ./figs/richyoungman.jpg>
-Package pdftex.def Info: ./figs/richyoungman.jpg  used on input line 126.
+Package pdftex.def Info: ./figs/richyoungman.jpg  used on input line 121.
 (pdftex.def)             Requested size: 390.0pt x 307.90852pt.
 [15
 
@@ -166,7 +171,7 @@ Chapter 6.
 <./figs/rorschach.jpg, id=153, 738.76pt x 483.8075pt>
 File: ./figs/rorschach.jpg Graphic file (type jpg)
 <use ./figs/rorschach.jpg>
-Package pdftex.def Info: ./figs/rorschach.jpg  used on input line 600.
+Package pdftex.def Info: ./figs/rorschach.jpg  used on input line 595.
 (pdftex.def)             Requested size: 390.0pt x 255.40538pt.
  [42] [43 <./figs/rorschach.jpg>] [44] [45] [46
 
@@ -176,7 +181,7 @@ Chapter 7.
 <./figs/goodsamaritan.jpg, id=186, 770.88pt x 529.98pt>
 File: ./figs/goodsamaritan.jpg Graphic file (type jpg)
 <use ./figs/goodsamaritan.jpg>
-Package pdftex.def Info: ./figs/goodsamaritan.jpg  used on input line 745.
+Package pdftex.def Info: ./figs/goodsamaritan.jpg  used on input line 740.
 (pdftex.def)             Requested size: 292.5pt x 201.08717pt.
  [52 <./figs/goodsamaritan.jpg>]
 Chapter 8.
@@ -186,30 +191,38 @@ Chapter 8.
 <./figs/elephant.jpg, id=199, 1011.78pt x 749.80125pt>
 File: ./figs/elephant.jpg Graphic file (type jpg)
 <use ./figs/elephant.jpg>
-Package pdftex.def Info: ./figs/elephant.jpg  used on input line 788.
+Package pdftex.def Info: ./figs/elephant.jpg  used on input line 783.
 (pdftex.def)             Requested size: 390.0pt x 289.02333pt.
- [56 <./figs/elephant.jpg>] (book.aux) ) 
+ (book.bbl [56 <./figs/elephant.jpg>]
+Underfull \hbox (badness 1424) in paragraph at lines 21--26
+[]\OT1/cmr/m/n/12 Cameron C. McIn-tyre, An-drew G. Richard-son, War-ren M. Gril
+l,
+ []
+
+) [57
+
+] (book.aux) ) 
 Here is how much of TeX's memory you used:
- 1348 strings out of 479334
- 20969 string characters out of 2857559
- 316733 words of memory out of 3000000
- 18825 multiletter control sequences out of 15000+200000
- 409596 words of font info for 47 fonts, out of 3000000 for 9000
+ 1320 strings out of 480790
+ 20272 string characters out of 2893985
+ 262875 words of memory out of 3000000
+ 17351 multiletter control sequences out of 15000+200000
+ 538504 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,2203b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Joey/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joey/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/
-Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
-Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msl12.pfb><C:/Users/Joey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmti12.pfb>
-Output written on book.pdf (60 pages, 1048253 bytes).
+ 30i,8n,25p,2203b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey Kilgore/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joey Kilg
+ore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
+Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Joey Kilgore/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on book.pdf (61 pages, 1052800 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
+ 235 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
