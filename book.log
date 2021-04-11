@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  10 APR 2021 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.3)  11 APR 2021 09:38
 entering extended mode
 **./book.tex
 (book.tex
@@ -147,43 +147,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [12]
 [13] [14]
 Chapter 3.
-<./figs/richyoungman.jpg, id=66, 377.92569pt x 298.36238pt>
-File: ./figs/richyoungman.jpg Graphic file (type jpg)
-<use ./figs/richyoungman.jpg>
-Package pdftex.def Info: ./figs/richyoungman.jpg  used on input line 121.
-(pdftex.def)             Requested size: 390.0pt x 307.90852pt.
 [15
 
- <./figs/richyoungman.jpg>] [16] [17] [18] [19] [20]
+] [16] [17] [18] [19] [20]
 Chapter 4.
 [21
 
-] [22] [23] [24] [25] [26]
-Chapter 5.
-[27
+] [22] [23] [24] [25] [26] [27] [28] [29] [30] Excluding 'comment' comment.
+[31] [32
 
-] [28] [29] [30] [31] [32] [33] [34] [35] [36] Excluding 'comment' comment.
-[37] [38
+]
+Chapter 5.
+[33] [34] [35]
+<./figs/rorschach.jpg, id=133, 738.76pt x 483.8075pt>
+File: ./figs/rorschach.jpg Graphic file (type jpg)
+<use ./figs/rorschach.jpg>
+Package pdftex.def Info: ./figs/rorschach.jpg  used on input line 484.
+(pdftex.def)             Requested size: 390.0pt x 255.40538pt.
+ [36] [37 <./figs/rorschach.jpg>] [38] [39] [40
 
 ]
 Chapter 6.
-[39] [40] [41]
-<./figs/rorschach.jpg, id=153, 738.76pt x 483.8075pt>
-File: ./figs/rorschach.jpg Graphic file (type jpg)
-<use ./figs/rorschach.jpg>
-Package pdftex.def Info: ./figs/rorschach.jpg  used on input line 595.
-(pdftex.def)             Requested size: 390.0pt x 255.40538pt.
- [42] [43 <./figs/rorschach.jpg>] [44] [45] [46
-
-]
-Chapter 7.
-[47] [48] [49] [50] [51]
-<./figs/goodsamaritan.jpg, id=186, 770.88pt x 529.98pt>
+<./figs/goodsamaritan.jpg, id=150, 770.88pt x 529.98pt>
 File: ./figs/goodsamaritan.jpg Graphic file (type jpg)
 <use ./figs/goodsamaritan.jpg>
-Package pdftex.def Info: ./figs/goodsamaritan.jpg  used on input line 740.
+Package pdftex.def Info: ./figs/goodsamaritan.jpg  used on input line 518.
 (pdftex.def)             Requested size: 292.5pt x 201.08717pt.
- [52 <./figs/goodsamaritan.jpg>]
+[41 <./figs/goodsamaritan.jpg>] [42] [43] [44] [45] [46]
+Chapter 7.
+<./figs/richyoungman.jpg, id=170, 377.92569pt x 298.36238pt>
+File: ./figs/richyoungman.jpg Graphic file (type jpg)
+<use ./figs/richyoungman.jpg>
+Package pdftex.def Info: ./figs/richyoungman.jpg  used on input line 637.
+(pdftex.def)             Requested size: 390.0pt x 307.90852pt.
+[47
+
+ <./figs/richyoungman.jpg>] [48] [49] [50] [51] [52]
 Chapter 8.
 [53
 
@@ -191,7 +190,7 @@ Chapter 8.
 <./figs/elephant.jpg, id=199, 1011.78pt x 749.80125pt>
 File: ./figs/elephant.jpg Graphic file (type jpg)
 <use ./figs/elephant.jpg>
-Package pdftex.def Info: ./figs/elephant.jpg  used on input line 783.
+Package pdftex.def Info: ./figs/elephant.jpg  used on input line 784.
 (pdftex.def)             Requested size: 390.0pt x 289.02333pt.
  (book.bbl [56 <./figs/elephant.jpg>]
 Underfull \hbox (badness 1424) in paragraph at lines 21--26
@@ -205,11 +204,11 @@ l,
 Here is how much of TeX's memory you used:
  1320 strings out of 480790
  20272 string characters out of 2893985
- 262875 words of memory out of 3000000
+ 262873 words of memory out of 3000000
  17351 multiletter control sequences out of 15000+200000
  538504 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,25p,2203b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,25p,2203b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Joey Kilgore/AppData/Loc
@@ -220,7 +219,7 @@ Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 ic/amsfonts/cm/cmr8.pfb><C:/Users/Joey Kilgore/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Joey Kilgore/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on book.pdf (61 pages, 1052800 bytes).
+Output written on book.pdf (61 pages, 1052785 bytes).
 PDF statistics:
  235 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
